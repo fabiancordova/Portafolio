@@ -1,0 +1,25 @@
+instalar Vuex:
+npm intall vuex --save  (solamente en el proyecto)
+npm install vuex
+
+Este comando no instala paquetes en devDependencies.
+npm i -D sass sass-loader fibers deepmerge
+
+
+And yes, i have in devDependencies fibers and deepmerge
+npm install sass sass-loader fibers deepmerge --dev
+
+“npm uninstall node-sass” Code Answer’s
+
+how to globally uninstall npm package
+npm uninstall -g <package_name>
+
+how to unistall dependencies
+npm un <package_name>
+
+
+how to globally uninstall npm package
+npm uninstall -g <@scope/package_name>
+
+
+
